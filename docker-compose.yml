@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   app:
     image: node-app:latest  # Use this image if it exists
